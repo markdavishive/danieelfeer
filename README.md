@@ -1,45 +1,98 @@
-![Fundo LInkedIn](https://github.com/user-attachments/assets/45f005c1-2518-46f9-bf1b-a6d35bc14d5c)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&&vCenter=true&width=1000&lines=Hi,+I'm+Daniel!👋🏽;I'm+a+Software+Developer+👨🏽‍💻)](https://git.io/typing-svg)
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Mark+Davis!👋;Sou+Engenheiro+de+Cloud+&+DevOps+☁️;Especialista+em+AWS,+Terraform+e+Kubernetes+🚀)](https://git.io/typing-svg)
 
 <ul>
-  <li><em>💻 Systems Analysis and Development student at <a href="https://ucb.catolica.edu.br/">Catholic University of Brasília</a>.</em></li>
-  <li><em>💼 IT Intern at the School of the Public Prosecutor's Office (<a href="https://escola.mpu.mp.br">ESMPU</a>)</em></li>
-  <li><em>🌱 Currently studying React Native and NestJS.</em></li>
-  <li><em>😄 Pronouns: he/him.</em></li>
+  <li><em>🚀 Engenheiro de Cloud & DevOps Pleno na <a href="https://www.hiveplace.com.br/">HIVEPlace</a>.</em></li>
+  <li><em>🔧 Foco em automação de infraestrutura (IaC), orquestração de contêineres e práticas GitOps.</em></li>
+  <li><em>🔐 Apaixonado por DevSecOps e por construir sistemas resilientes e seguros.</em></li>
 </ul>
 
+### Conecte-se comigo
 
+<p align="left">
+  <a href="https://linkedin.com/in/mark-davis-junior" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:markdavisjr01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF" alt="Gmail"/>
+  </a>
+</p>
 
-### Connect with me
+### Minhas Estatísticas no GitHub
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#A55CFF&color:FFFFF)](https://www.linkedin.com/in/dev-daniel-fernandes/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF)](mailto:danielfbodasilva@gmail.com)
-
-### GitHub Status
-
-<div align="left">  
-  <img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api?username=danieelfeer&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" alt="Daniel Fernandes github stats" /> 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=markdavishive&show_icons=true&hide_border=false&border_color=A55CFF&title_color=A55CFF&icon_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Estatísticas de Mark Davis no GitHub" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdavishive&layout=compact&hide_border=false&border_color=A55CFF&title_color=A55CFF&text_color=FFF&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas por Mark Davis" />
 </div>
 
+### 🛠️ Minha Tech Stack
 
- ### 👨🏽‍💻 Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=java,c,ts,js,nodejs,html,css,&theme=dark&perline=)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=spring,postman,react,vite,tailwind,npm&theme=dark&perline=)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=figma,canva&theme=dark&perline=)](https://skillicons.dev)
-<img align="left" alt="Canva" title="Canva" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="120px">
+        <p align="center">
+          <strong>☁️ Cloud & IaC</strong>
+        </p>
+      </td>
+      <td valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation&theme=dark" />
+        </a>
+        <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <p align="center">
+          <strong>📦 Containers & CI/CD</strong>
+        </p>
+      </td>
+      <td valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,argocd,githubactions&theme=dark" />
+        </a>
+        <img src="https://img.shields.io/badge/Atlantis-000000?style=for-the-badge&logo=terraform&logoColor=white" alt="Atlantis" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <p align="center">
+          <strong>👨‍💻 Linguagens</strong>
+        </p>
+      </td>
+      <td valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,go,nodejs,vue&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <p align="center">
+          <strong>🔒 Segurança & Outros</strong>
+        </p>
+      </td>
+      <td valign="top">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=snyk,sonarqube,git&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux - Mascote do Linux" align="right" width="100">
+
+<div align="center">
+  <code></> Keep shipping. Keep scaling. 🚀 </></code>
+</div>
+
 <br>
 
-<img src="https://github.com/user-attachments/assets/02d115e8-392a-4662-b2e1-e241f9a4d1fd" alt="club-penguin-playercard" align="right" width="100">
-
-```
-</> Keep coding 💻🚀 </>
-```
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B42BC&height=120&section=footer"/>
