@@ -42,7 +42,6 @@
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=aws,terraform,cloudformation&theme=dark" />
         </a>
-        <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
       </td>
     </tr>
     <tr>
@@ -55,7 +54,6 @@
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,argocd,githubactions&theme=dark" />
         </a>
-        <img src="https://img.shields.io/badge/Atlantis-000000?style=for-the-badge&logo=terraform&logoColor=white" alt="Atlantis" />
       </td>
     </tr>
     <tr>
